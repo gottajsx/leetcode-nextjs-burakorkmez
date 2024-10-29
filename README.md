@@ -41,13 +41,6 @@ Also modify `globals.css`:
 @tailwind utilities;
 ```
 
-## Start Application
-
-Start the application in development mode using:
-```bash
-npm run dev
-```
-
 ## Firebase Setup
 
 Go to [firebase console](https://console.firebase.google.com) to create related project
@@ -67,8 +60,9 @@ NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=
 NEXT_PUBLIC_FIREBASE_APP_ID
 ```
 
-## Start the App
+## Start Application
 
+Start the application in development mode using:
 ```bash
 npm run dev
 ```
